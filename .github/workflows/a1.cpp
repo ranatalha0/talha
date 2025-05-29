@@ -1,1 +1,1 @@
-cout << "hello sallat';
+cout << "hello sallat";
